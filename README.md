@@ -6,5 +6,5 @@
   I stored the trained model and its features in model.pkl file using python pickle library and used here in this application 
    to predict the weather.
 
-   I build this application using streamlit library.And deployed it using gitlab.
-   here is the link 
+   I build this application using streamlit library.And deployed it using steamlit community cloude
+   here is the link https://rainfall-prediction-using-ml-qtzdfqnwtahfc4tyc7hkk6.streamlit.app/
